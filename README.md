@@ -43,13 +43,13 @@ Analyzes user-submitted code and auto-generates insightful comments and complexi
 
 ---
 
-### 🔗 Estate Website with Real-Time Chat
+### 🔗 [Estate Website with Real-Time Chat] (https://github.com/pratyushvx/EstateApp)
 > React • Node.js • Socket.io • MongoDB  
 JWT-authenticated real estate listing site with **real-time buyer-seller chat**.
 
 ---
 
-### 🔗 Weather Info App
+### 🔗 [Weather Info App] (https://github.com/pratyushvx/Weather-App)
 > HTML • CSS • JS • OpenWeather API  
 Simple UI for fetching and displaying live weather data for searched locations.
 
