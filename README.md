@@ -1,78 +1,74 @@
 <h1 align="center">Hi 👋, I'm Pratyush Kumar Thakur</h1>
-<h3 align="center">B.Tech CSE @ CUSAT | MERN Stack Developer | DSA Enthusiast | Open to SDE Internships</h3>
+<h3 align="center">B.Tech CSE @ CUSAT | MERN Stack Developer | DSA Enthusiast | SDE Intern Aspirant</h3>
 
 <p align="center">
-  <a href="mailto:pratyushthakur7037@gmail.com"><img src="https://img.shields.io/badge/Email-pratyushthakur7037@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/pratyushvx"><img src="https://img.shields.io/badge/GitHub-pratyushvx-black?style=flat-square&logo=github"></a>
-  <a href="https://www.linkedin.com/in/pratyushcusat/"><img src="https://img.shields.io/badge/LinkedIn-pratyush-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:pratyushthakur7037@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/pratyushvx"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pratyushcusat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 📍 Alappuzha, Kerala, India  
-- 🎓 B.Tech in Computer Science and Engineering @ **CUSAT (2022–2026)**  
-- 🧠 Passionate about solving real-world problems with scalable solutions  
-- 🔎 Seeking an **SDE Internship** or entry-level role  
+- 🎓 B.Tech CSE student @ **CUSAT (2022–2026)**
+- 💻 MERN Stack Developer with a passion for building full-stack apps
+- 🔧 Solved **150+ DSA problems** on LeetCode & GFG
+- 🔍 Actively looking for **SDE Internship opportunities**
+- 🧠 Tech enthusiast always curious to learn and explore
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** `Java` `C++` `JavaScript` `SQL` `HTML` `CSS`  
-**Frontend:** `React.js` `Bootstrap` `Tailwind CSS` `JSP`  
-**Backend:** `Node.js` `Express.js` `Java Servlets` `REST APIs`  
-**Databases:** `MongoDB` `MySQL`  
-**Tools:** `Git` `GitHub` `Postman` `VS Code` `Tomcat` `Linux`  
-**CS Core:** `DSA` `OOP` `DBMS` `Operating Systems`
+**Languages:**  
+`Java` `C++` `JavaScript` `SQL` `HTML` `CSS`
+
+**Frontend:**  
+`React.js` `Bootstrap` `Tailwind CSS` `JSP`
+
+**Backend & APIs:**  
+`Node.js` `Express.js` `Java Servlets` `REST APIs`
+
+**Database & Tools:**  
+`MongoDB` `MySQL` `Git` `Postman` `VS Code` `Tomcat` `Linux`
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔗 [UniHub – College Resource Sharing Platform](https://github.com/pratyushvx/UniHuB)
-> MERN Stack • JWT Auth • File Uploads • Admin Panel  
-Students can upload/view notes, previous year questions, and announcements in a centralized portal.
+### 🔹 [UniHub – College Resource Sharing Platform](https://github.com/pratyushvx/UniHuB)
+> MERN stack app where students can upload/view notes & PYQs. Includes **JWT auth**, file uploads & admin announcements.
 
----
+### 🔹 [CommentCraft – AI Code Analyzer](https://github.com/pratyushvx/CommentCraft)
+> Analyzes code and auto-generates comments using Gemini/OpenAI API. Includes result viewer, PDF export & MongoDB storage.
 
-### 🔗 [CommentCraft – AI Code Analyzer](https://github.com/pratyushvx/CommentCraft)
-> Node.js • Gemini/OpenAI API • HTML/CSS • MongoDB  
-Analyzes user-submitted code and auto-generates insightful comments and complexity estimation.
+### 🔹 [Estate Web App with Live Chat](https://github.com/pratyushvx/EstateApp)
+> React + Node.js property listing app with **real-time chat** using Socket.io & JWT-based authentication.
 
----
-
-### 🔗 [Estate Website with Real-Time Chat] (https://github.com/pratyushvx/EstateApp)
-> React • Node.js • Socket.io • MongoDB  
-JWT-authenticated real estate listing site with **real-time buyer-seller chat**.
-
----
-
-### 🔗 [Weather Info App] (https://github.com/pratyushvx/Weather-App)
-> HTML • CSS • JS • OpenWeather API  
-Simple UI for fetching and displaying live weather data for searched locations.
+### 🔹 [Weather Info App](https://github.com/pratyushvx/Weather-App)
+> Clean UI to search weather using OpenWeatherMap API.
 
 ---
 
 ## 💼 Experience
 
-### 🌐 Full Stack Developer – Kites Technologies *(Remote Internship)*  
-**May 2025 – Jun 2025**  
-- Built admin dashboards, secured login systems  
-- Integrated REST APIs with MongoDB backend
+**🛠️ Full Stack Developer – Kites Technologies (Remote)**  
+*May 2025 – Jun 2025*  
+- Developed admin dashboards and secure authentication  
+- REST API integration with MongoDB backend
 
-### 🌍 Web Developer – CoderOne *(Remote Internship)*  
-**Feb 2025 – Apr 2025**  
-- Built dynamic, responsive websites  
-- Integrated backend services for real-time updates
+**🌐 Web Developer – CoderOne (Remote)**  
+*Feb 2025 – Apr 2025*  
+- Built responsive websites with live data updates  
+- Worked on user authentication and frontend-backend integration
 
 ---
 
 ## 📜 Certifications
 
-- ✅ **Apna College DSA Masterclass**
-- ✅ **Apna College Full Stack Web Development**
+- 🏅 **DSA Masterclass** – Apna College  
+- 🏅 **Full Stack Web Dev** – Apna College  
 - ⭐ **HackerRank Java 4-Star Badge**
 
 ---
@@ -80,26 +76,26 @@ Simple UI for fetching and displaying live weather data for searched locations.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyushvx&show_icons=true&theme=react&hide_title=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushvx&layout=compact&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pratyushvx&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushvx&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- System Design Basics  
-- Advanced DSA Topics  
-- Deployment on Render/Vercel
+- 📘 Advanced DSA Patterns  
+- 📦 System Design Basics  
+- 🌐 Cloud Deployment – Render, Vercel, and Netlify  
 
 ---
 
-## 📬 Let's Connect
+## 📬 Connect with Me
 
-Feel free to reach out for **collaboration, mentorship, internships, or freelancing**!
+- 💌 **Email:** pratyushthakur7037@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/pratyushcusat](https://www.linkedin.com/in/pratyushcusat/)  
+- 🐙 **GitHub:** [github.com/pratyushvx](https://github.com/pratyushvx)  
 
-```bash
-📧 Email: pratyushthakur7037@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/pratyushcusat/
-🐱 GitHub: https://github.com/pratyushvx
-📍 Location: Alappuzha, Kerala, India
+---
+
+⭐ *Thanks for visiting! Feel free to connect or collaborate!* 🚀
