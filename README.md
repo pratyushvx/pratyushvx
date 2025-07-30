@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:pratyushthakur7037@gmail.com"><img src="https://img.shields.io/badge/Email-pratyushthakur7037@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/pratyushvx"><img src="https://img.shields.io/badge/GitHub-pratyushvx-black?style=flat-square&logo=github"></a>
-  <a href="www.linkedin.com/in/pratyushcusat"><img src="https://img.shields.io/badge/LinkedIn-pratyush-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/pratyushcusat/"><img src="https://img.shields.io/badge/LinkedIn-pratyush-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
@@ -100,6 +100,6 @@ Feel free to reach out for **collaboration, mentorship, internships, or freelanc
 
 ```bash
 📧 Email: pratyushthakur7037@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/pratyushcusat
+🔗 LinkedIn: https://www.linkedin.com/in/pratyushcusat/
 🐱 GitHub: https://github.com/pratyushvx
 📍 Location: Alappuzha, Kerala, India
